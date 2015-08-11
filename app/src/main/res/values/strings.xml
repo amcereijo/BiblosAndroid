@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Biblos</string>
+
+    <string name="main_text">Biblos está instalado y escuchando nuevos pedidos.</string>
+    <string name="biblos_orders_title">Biblos Pedidos</string>
+</resources>
