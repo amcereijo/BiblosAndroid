@@ -2,5 +2,8 @@
     <string name="app_name">Biblos</string>
 
     <string name="main_text">Biblos está instalado y escuchando nuevos pedidos.</string>
+    <string name="main_text_orders">Pedidos</string>
     <string name="biblos_orders_title">Biblos Pedidos</string>
+    <string name="show_order_button">Ver</string>
+
 </resources>
